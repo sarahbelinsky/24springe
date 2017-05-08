@@ -1,0 +1,19 @@
+{
+  "name": "24springe",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seattleacademy/24springe.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seattleacademy/24springe/issues"
+  },
+  "homepage": "https://github.com/seattleacademy/24springe#readme"
+}
